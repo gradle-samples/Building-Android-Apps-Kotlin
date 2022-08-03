@@ -11,10 +11,9 @@ The application was created following the [Build your first app guide](https://d
 
 To build the application:
 
-[listing.terminal]
-----
-$ ./gradlew build
-----
+```
+./gradlew build
+```
 
 For more information, we suggest reading link: [Getting Started with Gradle](https://docs.gradle.org/current/userguide/getting_started.html).
 
